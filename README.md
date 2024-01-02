@@ -8,7 +8,6 @@
 🚀 **Skills:**
 - Proficient in Python 🐍 (Created a virtual assistant to automate tasks!)
 - HTML, CSS for front-end development 🌐
-- Java for backend logic and application development ☕
 - C++ for algorithmic problem-solving 🧠
 
 📚 **Learning:**
