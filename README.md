@@ -9,6 +9,7 @@
 - Proficient in Python 🐍 (Created a virtual assistant to automate tasks!)
 - HTML, CSS for front-end development 🌐
 - C++ for algorithmic problem-solving 🧠
+- Java for object-oriented programming (OOP) 🚀
 
 📚 **Learning:**
 - Exploring new technologies and frameworks to expand my skill set.
