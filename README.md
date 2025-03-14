@@ -1,6 +1,4 @@
 # 💫 About Me:
-👋 Hello, Aysha here!<br>🎓 Currently pursuing a Bachelor's in IT Honors at MMU<br><br>💻 I'm passionate about technology and love learning.<br><br>🚀 Skills:<br><br>Proficient in Python 🐍 (Created a virtual assistant to automate tasks!)<br>HTML, CSS for front-end development 🌐<br>C++ for algorithmic problem-solving 🧠<br>Java for object-oriented programming (OOP) 🚀<br>📚 Learning:<br><br>Exploring new technologies and frameworks to expand my skill set.<br>🔗 Connect with me:<br><br>LinkedIn: [www.linkedin.com/in/aysha-sharafudheen-472806207]<br>📬 Reach out:<br><br>Open to collaboration and eager to learn from the GitHub community. Let's build something awesome together!<br>Happy coding! 🚀
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aysha sharafudheen) 
