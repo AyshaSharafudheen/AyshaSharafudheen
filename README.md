@@ -1,59 +1,16 @@
-<!-- lily chou-chou readme — replace placeholders with your info -->
+# 💫 About Me:
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=your_handle&fontSize=42&fontColor=c8c4b0&animation=fadeIn&fontAlignY=50" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aysha sharafudheen) 
 
-  ```
-  存在している · developer · engineer
-  ```
-</div>
-
----
-
-> *i build things in the space between what works and what feels right.*
-> *somewhere in the static, there is signal. i write code that listens for it.*
->
-> *currently: somewhere between shipping and dissolving.*
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AyshaSharafudheen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AyshaSharafudheen&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyshaSharafudheen&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AyshaSharafudheen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**·· frequency · stack ··**
-
-`TypeScript` `Rust` `React` `Go` `PostgreSQL` `Node.js` `Docker` `Linux`
-
----
-
-**·· resonance · current focus ··**
-
-| area | signal strength |
-|---|---|
-| systems design | ████████░░ 88% |
-| frontend craft | ███████░░░ 74% |
-| open source | ██████░░░░ 60% |
-| melancholy | █████████░ 97% |
-
----
-
-**·· fragments ··**
-
-<div align="center">
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0b&text_color=8a9485&icon_color=4a6655&title_color=7eb89a)
-  
-</div>
-
----
-
-**·· ether ··**
-
-listening to: *whatever transmits through the static*
-reading: *things with margins full of notes*
-building: *something that might not exist yet*
-
-→ [twitter](your-link) · [portfolio](your-link) · [email](mailto:your@email.com)
-
----
-
-<div align="center">
-  <sub>エーテルの周波数 · built in the static · open to signal</sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
